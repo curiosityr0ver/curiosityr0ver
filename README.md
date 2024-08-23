@@ -1,4 +1,4 @@
-Certainly! Here's a tailored profile README based on your resume:
+Certainly! Here's a more visually appealing GitHub profile README with added stats, technology logos, and links:
 
 ---
 
@@ -8,40 +8,58 @@ Certainly! Here's a tailored profile README based on your resume:
 🏠 **Location:** Rohini, Delhi  
 📧 **Email:** [mehta.ishu14@gmail.com](mailto:mehta.ishu14@gmail.com)  
 📱 **Phone:** +91 8860854329  
-💼 **LinkedIn:** [Ishu Mehta](https://www.linkedin.com/in/ishu-mehta-77ba4b201/)  
-👨‍💻 **GitHub:** [curiosityr0ver](https://github.com/curiosityr0ver)  
-🏆 **LeetCode:** [user6295j](https://leetcode.com/user6295j/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishu%20Mehta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishu-mehta-77ba4b201/)
+[![GitHub](https://img.shields.io/badge/GitHub-curiosityr0ver-181717?style=flat&logo=github)](https://github.com/curiosityr0ver)
+[![LeetCode](https://img.shields.io/badge/LeetCode-user6295j-orange?style=flat&logo=leetcode)](https://leetcode.com/user6295j/)
 
 ---
 
 ### 👨‍🎓 About Me
 
-I am a recent B.Tech graduate in Computer Science and Engineering from ITER Bhubaneswar (SOA University) with a strong academic record and hands-on experience in software development, data analysis, and teaching. I am passionate about building scalable systems, optimizing backend processes, and exploring new technologies to solve complex problems.
+I am a recent **B.Tech graduate in Computer Science and Engineering** from ITER Bhubaneswar (SOA University) with a strong academic record and hands-on experience in software development, data analysis, and teaching. I am passionate about building scalable systems, optimizing backend processes, and exploring new technologies to solve complex problems.
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Java, Python, SQL, JavaScript, TypeScript, C
-- **Technologies:** Node.js, React.js, Machine Learning, MongoDB, Linux
-- **Tools & Platforms:** AWS, DynamoDB, Spark, Scala/PySpark
+#### **Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### **Technologies:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### **Tools & Platforms:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=pyspark&logoColor=white)
 
 ---
 
 ### 💼 Professional Experience
 
-- **SDE Intern @ Cuvette Tech**  
+- **SDE Intern @ [Cuvette Tech](https://cuvette.tech)**  
   *Mar 2024 – Present*  
   - Optimized fetch requests by implementing debouncing and pagination, reducing API calls by 32%.
   - Revamped indexing to improve server request latency by 20ms.
   - Migrated student record logs from MongoDB to DynamoDB, enhancing data reliability.
 
-- **Teaching Assistant @ Suvidha Foundation**  
+- **Teaching Assistant @ [Suvidha Foundation](https://suvidhafoundationedusociety.com/)**  
   *Aug 2023 – Nov 2023*  
   - Taught programming and basic computing concepts to adolescents globally.
   - Introduced data structures and OOP using Python and Java, leading to increased student retention and satisfaction.
 
-- **Martian Trainee @ Persistent Systems**  
+- **Martian Trainee @ [Persistent Systems](https://www.persistent.com/)**  
   *May 2023 – Aug 2023*  
   - Mastered SQL for efficient database management and manipulation.
   - Gained proficiency in Linux for system administration and command-line tasks.
@@ -62,6 +80,13 @@ I am a recent B.Tech graduate in Computer Science and Engineering from ITER Bhub
 
 - **[Pocket Notes](https://github.com/curiosityr0ver/your_project_link)**  
   A note-taking platform that allows users to organize and customize notes into groups with intuitive color coding. Ensures responsive design and data integrity through efficient data handling.
+
+---
+
+### 📊 GitHub Stats
+
+![Ishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiosityr0ver&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curiosityr0ver&layout=compact&theme=radical)
 
 ---
 
@@ -92,4 +117,4 @@ I am always open to discussing new opportunities, collaborating on exciting proj
 
 ---
 
-This README provides a concise overview of your professional background, skills, and goals, making it a great way to introduce yourself on platforms like GitHub. Let me know if you'd like any adjustments or additional details!
+This README file provides a visually engaging and informative profile overview, integrating technology logos, GitHub stats, and clickable links. Let me know if you need any changes!
