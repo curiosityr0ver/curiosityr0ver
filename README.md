@@ -1,5 +1,3 @@
-Certainly! Here's a more visually appealing GitHub profile README with added stats, technology logos, and links:
-
 ---
 
 # Hi there, I'm Ishu Mehta 👋
