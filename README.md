@@ -1,10 +1,10 @@
 # Hi, I'm Ishu Mehta! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishu-mehta&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=curiosityr0ver&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
 
-I'm a passionate Software Developer with expertise in various programming languages and technologies. My goal is to create efficient, scalable, and user-friendly applications. I love exploring new technologies and applying them in my projects.
+I'm a passionate Software Developer with a knack for exploring new technologies—just like a certain rover exploring the Martian surface! 🌌 My mission? To create efficient, scalable, and user-friendly applications that make a difference.
 
 ### 🛠️ Languages & Tools
 
@@ -21,13 +21,22 @@ I'm a passionate Software Developer with expertise in various programming langua
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🚀 Projects
+
+- **Gmail Classifier**: A machine learning model to automatically classify emails in Gmail into various categories, making inbox management easier.
+- **Matrix Analyzer**: A powerful tool that allows users to perform complex matrix operations, useful for mathematical analysis and engineering tasks.
+- **Pocket Notes**: A lightweight, web-based application for taking notes on the go, with seamless integration across devices.
+
 ## 📊 GitHub Stats
 
-![Ishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishu-mehta&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu-mehta&layout=compact&theme=radical)
+![Ishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiosityr0ver&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiosityr0ver&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishu-mehta/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishu-mehta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/curiosityr0ver)
 
+## 🧑‍🚀 Bio
+
+Just a rover on a mission to explore the vast landscape of code—one bug at a time. Let's build something out of this world! 🌍🚀
